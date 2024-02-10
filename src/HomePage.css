@@ -1,0 +1,60 @@
+
+
+.hero-1 {
+    background-color: #f06292;
+    height: 50vh;
+    font-family: "Poppins", sans-serif !important;
+}
+
+.hero-1 img {
+    width: 70%;
+}
+
+.row.hero {
+    align-items: center;
+    height: 50vh;
+    overflow:hidden;
+  }
+
+.hero-2 {
+    background-color: #f8bbd0;
+}
+
+.card-img-top {
+    width: 100%;
+    max-height: 200px; 
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.card {
+    width: 18rem !important;
+    padding: 5px;
+    transition: 200ms all ease-in-out;
+    -webkit-transition: 300ms all ease-in-out;
+    border-radius: 13px;
+}
+
+.card:hover {
+    transform: scale(1.02);
+    transition: 200ms all ease-in-out;
+    -webkit-transition: 300ms all ease-in-out;
+}
+
+.col.cards {
+    padding: 10px;
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.testimonials {
+    background-color: white;
+    padding-bottom: 40px;
+}
+
+.volunteer {
+    font-family: 'Poppins', sans-serif !important;
+    color: #c2185b !important;
+    font-weight: 600;
+    padding: 40px;
+    padding-top: 50px;
+}

@@ -1,0 +1,16 @@
+.newspage {
+    margin-top:90px;
+    background-color: #f5f5f5;
+    font-family: 'Poppins', sans-serif !important ;
+}
+
+.newpage {
+    padding-top: 20px;
+}
+
+.newpage .card {
+    width: inherit !important ;
+    background-color: #fce4ec;
+    margin-bottom: 10px;
+    border: none !important;
+}
